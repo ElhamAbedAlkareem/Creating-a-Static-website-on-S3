@@ -3,7 +3,7 @@
 
 In this priject, we will gain hands-on experience with the AWS Command Line Interface (AWS CLI) by performing several tasks from an Amazon Elastic Compute Cloud (Amazon EC2) instance.
 
-The activities include:
+#The activities include:
 
 1-Creating an Amazon Simple Storage Service (Amazon S3) bucket: We will create a bucket in S3, which will serve as the storage location for the website files.
 
